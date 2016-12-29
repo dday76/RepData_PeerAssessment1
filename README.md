@@ -6,13 +6,21 @@ All the files are included. The html file has all the commentary, code, and outp
 Valid GitHub URL - you found it with >+1 commit and the SHA-1. (Can't get that until after this commit...)
 Commit contents --
 1. Code for reading in the dataset and/or processing the data ** see (PA1_template.)Rmd **
+
 2. Histogram of the total number of steps taken each day ** See (PA1_template.)html, right above second question. **
+
 3. Mean and median number of steps taken each day **html, first part of first question - Median is 10,765 steps per day, and the Mean is 10,766 steps per day**
+
 4. Time series plot of the average number of steps taken ** html, second question right before part 2. **
+
 5. The 5-minute interval that, on average, contains the maximum number of steps ** Second question, part 2: 8:35-8:40AM **
+
 6. Code to describe and show a strategy for imputing missing data ** html, Question 3 part 2 **
+
 7. Histogram of the total number of steps taken each day after missing values are imputed ** html, chart labeled "Avg of total stpes per day, imputed." Please don't confuse this chart with the non-imputed one and the two histograms. **
+
 8. Panel plot comparing the average number of steps taken per 5-minute interval across weekdays and weekends ** html: last chart **
+
 9. All of the R code needed to reproduce the results (numbers, plots, etc.) in the report ** in the .Rmd file but also visible in the html **
 
 # Original README contents --
